@@ -1,0 +1,153 @@
+body {
+	background-image: url('7 eleven.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  	background-size: cover;
+}
+.title {
+	background-color: whitesmoke;
+	width: 20%;
+	margin: auto;
+	border: 5px solid;
+	border-color: green;
+	padding: 20px;
+	text-align: center;
+}
+h2 {
+	color: green;
+	font-family: Courier New;
+	font-weight: bold;
+}
+.WN {
+	background-color: whitesmoke;
+	width: 12%;
+	margin: left;
+	border: 5px solid;
+	border-color: green;
+	padding: 10px;
+}
+.メニュー {
+	background-color: lightgrey;
+	width: auto;
+
+	border: 10px solid;
+	border-color: darkred;
+	padding: auto;
+}
+.TG {
+	margin-left: 30px;
+	width: 325px;
+	background-color: blue;
+	border: 1px solid;
+	border-color: blue;
+	padding: auto;
+	float: left;
+
+}
+.アイテム {
+	background-color: blue;
+	width: 310px;
+	margin-left: 30px;
+	border: 1px solid;
+	border-color: blue;
+	padding-left: 15px;
+	color: whitesmoke;
+	font-family: Georgia;
+	
+
+}
+.FT {
+	margin-top: -368px;
+	margin-right: 30px;
+	width: 325px;
+	background-color: blue;
+	border: 1px solid;
+	border-color: blue;
+	padding: auto;
+	float: right;
+}
+.item2 {
+	background-color: blue;
+	width: 310px;
+	margin-top: -51px;
+	margin-right: 30px;
+	border: 1px solid;
+	border-color: blue;
+	padding-left: 15px;
+	color: whitesmoke;
+	font-family: Georgia;
+	float: right;
+}
+.Oni {
+	margin-top: -368px;
+	margin-right: 675px;
+	width: 325px;
+	background-color: blue;
+	border: 1px solid;
+	border-color: blue;
+	padding: auto;
+	float: right;
+
+}
+.item3 {
+	background-color: blue;
+	width: 310px;
+	margin-top: -51px;
+	margin-right: 675px;
+	border: 1px solid;
+	border-color: blue;
+	padding-left: 15px;
+	color: whitesmoke;
+	font-family: Georgia;
+	float: right;	
+}
+.coffee {
+	margin-left: 30px;
+	width: 325px;
+	background-color: blue;
+	border: 1px solid;
+	border-color: blue;
+	padding: auto;
+	float: left;
+}
+.item4 {
+	background-color: blue;
+	width: 310px;
+	margin-left: 30px;
+	border: 1px solid;
+	border-color: blue;
+	padding-left: 15px;
+	color: whitesmoke;
+	font-family: Georgia;
+}
+.SS {
+	margin-top: -523px;
+	margin-right: 675px;
+	width: 325px;
+	background-color: blue;
+	border: 1px solid;
+	border-color: blue;
+	padding: auto;
+	float: right;	
+}
+.item5{
+	background-color: blue;
+	width: 310px;
+	margin-top: -78px;
+	margin-right: 675px;
+	border: 1px solid;
+	border-color: blue;
+	padding-left: 15px;
+	color: whitesmoke;
+	font-family: Georgia;
+	float: right;
+}
+.container {
+	text-align: center;
+	background-color: whitesmoke;
+	width: 20%;
+	margin: auto;
+	border: 5px solid;
+	border-color: black;
+	padding: 30px;
+}
